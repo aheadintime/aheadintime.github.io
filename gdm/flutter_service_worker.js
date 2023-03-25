@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "1db28e3d600ac98797532df353fdc799",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "bbaa81c82e8a467d817f2241f7704edf",
+"assets/NOTICES": "dfbfdb6687bf7dbf050a39eaf2bca5e9",
 "assets/packages/gusto_digital_menu_core/assets/pics/0.jpg": "d7f883cc70da9a318a9d0d9c14f3ae19",
 "assets/packages/gusto_digital_menu_core/assets/pics/10.jpg": "0daab0487f401bbd4f76bdb91c6486c2",
 "assets/packages/gusto_digital_menu_core/assets/pics/11.jpg": "522b72ba8aaad53a8355e1b23ed8f948",
@@ -30,9 +30,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "9d92d96f9df2118aeb87341cbc06130d",
 "icons/Icon-maskable-192.png": "ab4def65d07efb06a4e4ebe361d9d0f9",
 "icons/Icon-maskable-512.png": "9d92d96f9df2118aeb87341cbc06130d",
-"index.html": "415ee9186c1a119829d4536882f06032",
-"/": "415ee9186c1a119829d4536882f06032",
-"main.dart.js": "2232fc1162d2d7e74fef4ccc70a62494",
+"index.html": "b29228c621852f725066b71ac0e034e3",
+"/": "b29228c621852f725066b71ac0e034e3",
+"main.dart.js": "c875b0473122f1aed1ccc925d66837d3",
 "manifest.json": "0efbe65c09e912648a4ef6985b188fa4",
 "version.json": "438d3e57450db5ed0f7b502a825300ab"
 };
