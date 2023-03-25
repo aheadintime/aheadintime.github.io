@@ -1,0 +1,375 @@
+{
+    "name": "Gusto - Digital Menu",
+    "categories": [
+        {
+            "id": 0,
+            "name": "smoothies"
+        },
+        {
+            "id": 1,
+            "name": "cocktails"
+        }
+    ],
+    "allergens": [
+        {
+            "id": 0,
+            "name": "moluscs"
+        },
+        {
+            "id": 1,
+            "name": "eggs"
+        },
+        {
+            "id": 2,
+            "name": "fish"
+        },
+        {
+            "id": 3,
+            "name": "lupin"
+        },
+        {
+            "id": 4,
+            "name": "soya"
+        },
+        {
+            "id": 5,
+            "name": "milk"
+        },
+        {
+            "id": 6,
+            "name": "peanuts"
+        },
+        {
+            "id": 7,
+            "name": "gluten"
+        },
+        {
+            "id": 8,
+            "name": "crustaceans"
+        },
+        {
+            "id": 9,
+            "name": "mustard"
+        },
+        {
+            "id": 10,
+            "name": "nuts"
+        },
+        {
+            "id": 11,
+            "name": "sesame"
+        },
+        {
+            "id": 12,
+            "name": "celery"
+        },
+        {
+            "id": 13,
+            "name": "sulphites"
+        }
+    ],
+    "pictures": [
+        {
+            "id": 0,
+            "description": "smoothie",
+            "imageUrl": "assets/pics/0.jpg"
+        },
+        {
+            "id": 1,
+            "description": "margarita",
+            "imageUrl": "assets/pics/5.jpg"
+        },
+        {
+            "id": 2,
+            "description": "martini",
+            "imageUrl": "assets/pics/7.jpg"
+        },
+        {
+            "id": 3,
+            "description": "cosmopolitan",
+            "imageUrl": "assets/pics/8.jpg"
+        },
+        {
+            "id": 4,
+            "description": "pina colada",
+            "imageUrl": "assets/pics/9.jpg"
+        },
+        {
+            "id": 5,
+            "description": "orange",
+            "imageUrl": "assets/pics/10.jpg"
+        },
+        {
+            "id": 6,
+            "description": "tropical",
+            "imageUrl": "assets/pics/11.jpg"
+        },
+        {
+            "id": 7,
+            "description": "mojito",
+            "imageUrl": "assets/pics/12.jpg"
+        },
+        {
+            "id": 8,
+            "description": "screwdriver",
+            "imageUrl": "assets/pics/13.jpg"
+        },
+        {
+            "id": 9,
+            "description": "long island",
+            "imageUrl": "assets/pics/14.jpg"
+        },
+        {
+            "id": 10,
+            "description": "bloody mary",
+            "imageUrl": "assets/pics/15.jpg"
+        },
+        {
+            "id": 11,
+            "description": "gin tonic",
+            "imageUrl": "assets/pics/6.jpg"
+        }
+    ],
+    "menu": {
+        "title": "Gusto - Drinks",
+        "products": [],
+        "menus": [
+            {
+                "title": "Smoothies",
+                "products": [
+                    {
+                        "id": 0,
+                        "name": "Strawberry Smoothie",
+                        "shortDescription": "Strawberry Smoothie Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Strawberry Smoothie Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 5.0,
+                        "category": 0,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "Vanilla Smoothie",
+                        "shortDescription": "Vanilla Smoothie Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Vanilla Smoothie Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 5.0,
+                        "category": 0,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Apple Smoothie",
+                        "shortDescription": "Apple Smoothie Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Apple Smoothie Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 5.0,
+                        "category": 0,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Pineapple Smoothie",
+                        "shortDescription": "Pineapple Smoothie Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Pineapple Smoothie Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 5.0,
+                        "category": 0,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Chocolate Smoothie",
+                        "shortDescription": "Chocolate Smoothie Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Chocolate Smoothie Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 5.0,
+                        "category": 0,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            0
+                        ]
+                    }
+                ],
+                "menus": []
+            },
+            {
+                "title": "Cocktails",
+                "products": [
+                    {
+                        "id": 5,
+                        "name": "Margarita",
+                        "shortDescription": "Margarita Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Margarita Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            1
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Gin Tonic",
+                        "shortDescription": "Gin Tonic Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Gin Tonic Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            11
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "Martini",
+                        "shortDescription": "Martini Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Martini Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            2
+                        ]
+                    }
+                    ,{
+                        "id": 8,
+                        "name": "Cosmopolitan",
+                        "shortDescription": "Cosmopolitan Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Cosmopolitan Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            3
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "name": "Pina Colada",
+                        "shortDescription": "Pina Colada Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Pina Colada Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            4
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Orange",
+                        "shortDescription": "Orange Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Orange Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            5
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "Tropical",
+                        "shortDescription": "Tropical Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Tropical Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            6
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Mojito",
+                        "shortDescription": "Mojito Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Mojito Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            7
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "Screwdriver",
+                        "shortDescription": "Screwdriver Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Screwdriver Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            8
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "name": "Long Island",
+                        "shortDescription": "Long Island Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Long Island Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            9
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "Bloody Mary",
+                        "shortDescription": "Bloody Mary Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "description": "Bloody Mary Fusce at erat neque. Vestibulum et eros sollicitudin, viverra nibh non, auctor enim. Morbi ut nulla id urna tristique hendrerit. Sed vitae pretium mi. Maecenas a tristique lectus. Cras dapibus, magna et consectetur pellentesque, mi velit fermentum libero, quis tempus sem turpis sed felis. Sed tristique finibus nibh in interdum. Aliquam vitae ex nisl. Aliquam in massa consectetur, sodales massa nec, egestas sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed elementum vestibulum ullamcorper. Etiam interdum libero gravida, imperdiet urna vel, blandit orci. Maecenas vitae rutrum mi. Pellentesque a viverra orci. Aenean eu mi sit amet massa vestibulum finibus a quis quam. ",
+                        "price": 9.0,
+                        "category": 1,
+                        "allergens": [
+                            
+                        ],
+                        "pictures": [
+                            10
+                        ]
+                    }
+                ],
+                "menus": []
+            }
+        ]
+    }
+}
