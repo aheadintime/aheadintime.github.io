@@ -1,6 +1,6 @@
 {
-    "name": "gusto_digital_menu",
-    "short_name": "gusto_digital_menu",
+    "name": "GUSTO! Digital Menu",
+    "short_name": "GUSTO!",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
