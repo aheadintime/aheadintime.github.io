@@ -82031,7 +82031,7 @@ $1(a){$.im()
 return new A.qb(B.aQ,new A.eQ(B.wP))},
 $S:498}
 A.a24.prototype={
-$1(a){var s=A.a(["CONSUMER","SELLER"],t.s)
+$1(a){var s=A.a(["CUSTOMER","SELLER"],t.s)
 $.im()
 return new A.qQ(s,B.aQ,B.yy)},
 $S:499}
