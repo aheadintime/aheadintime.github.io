@@ -1,11 +1,11 @@
 {
-    "name": "rewards_app",
-    "short_name": "rewards_app",
+    "name": "Rewards",
+    "short_name": "Rewards",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Get more from your purchases",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
