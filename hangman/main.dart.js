@@ -21342,8 +21342,8 @@ RC:function RC(){},
 axU(){var s=new A.Kw().FC(),r=J.nz(0,t.N)
 return new A.l3(s,r)},
 l3:function l3(a,b){var _=this
-_.c="wss://broker.emqx.io:8084/mqtt"
-_.d=8084
+_.c="wss://test.mosquitto.org:8081"
+_.d=8081
 _.e=a
 _.f=null
 _.r=$
