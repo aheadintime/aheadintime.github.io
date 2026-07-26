@@ -34837,7 +34837,7 @@ s===$&&A.a()
 s.l()
 this.QP()},
 gwA(){var s=A.a2V(),r=this.a
-return s.Ae(A.zi(null,"/8bitscroll/shared",null,A.aI(["s",B.f.j(r.c),"ps",B.c.S(r.d,4)],t.N,t.z),null))},
+return s.Ae(A.zi(null,"/8bitscroll/#/shared",null,A.aI(["s",B.f.j(r.c),"ps",B.c.S(r.d,4)],t.N,t.z),null))},
 Za(){var s=this.gwA().j(0)
 A.acr("Check out this 8bitscroll game of life :\n"+A.OA(s,"%23","#"),"8bitscroll game of life share")},
 pM(){var s=0,r=A.W(t.H),q=this,p
